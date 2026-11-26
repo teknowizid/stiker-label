@@ -2,6 +2,9 @@
 *.log
 *.png
 *.jpg
+!assets/
+!assets/*.jpg
+!assets/*.png
 LabelPrinter.spec
 build/
 dist/

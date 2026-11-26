@@ -2,6 +2,8 @@
 
 A Windows 11 Fluent-styled desktop application for designing and printing thermal sticker labels (`50.8mm x 31mm`, 203 DPI), built with Python (`CustomTkinter`), `Pillow`, and `pywin32`.
 
+![Label Printer Studio Preview](assets/preview.jpg)
+
 ## Features
 
 - **Windows 11 Fluent Design UI**:
